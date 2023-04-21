@@ -1,6 +1,6 @@
 # garima-s_quotes_webscrapping
 to automatically extract and parse data from quotes website. Then storing that data in data frames and creating datasets for research and learning purposes.
-Website to scrape from: "http://quotes.toscrape.com/page/1/"
+Website to scrape data from: "http://quotes.toscrape.com/page/1/"
 
 
 In the assignment, the number of pages to extract the data from was not mentioned, so I have created a function that will ask users for a valid number of pages they need.
@@ -8,9 +8,7 @@ In the assignment, the number of pages to extract the data from was not mentione
 
 Data to scrape from the website:
  1) Name
- 
  2) Quotes 
- 
  3) Tags
 
 
